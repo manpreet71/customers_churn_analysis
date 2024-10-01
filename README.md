@@ -1,5 +1,5 @@
 # customers_churn_analysis
-# In this project, I've used Python and it's libraries for **exploratory data analysis(EDA)** and uses libraries of python like **matplotlib** and **pandas** for **data visualisation**. I also prepare a detailed report along with summary and recommendations.
+# In this project, I've used Python and it's libraries for **exploratory data analysis(EDA)** and uses libraries like **matplotlib** and **seaborn** for **data visualisation**. I also prepared a detailed report along with summary and recommendations.
 # By performing data analysis on such data, I figured out that there are **3 main reasons** for the which leads to the customer churn out.
 # firstly the customers with **shorter tenure (less than one year or two)** are more likely to churn indicating criticality of initial engagement strategies.![Screenshot 2024-09-30 230103](https://github.com/user-attachments/assets/306baa8c-83cf-4381-80be-1551f926575c)
 # secondly, customers on month to month contract are more likely to churn than those on yearly and bi-yearly contracts. this suggests that long term contracts may improve customer retention.![Screenshot 2024-09-30 230130](https://github.com/user-attachments/assets/35de29de-06cb-4963-823a-34513cb05dc9)
